@@ -12,3 +12,6 @@ $ sudo chmod +x /opt/bin/ak
 Execute following commands to install ak in a container on MacOS
 $ curl -L --fail https://github.com/whulshof/akindock/releases/download/v2.0/ak-macos.sh > /usr/local/bin/ak
 $ sudo chmod +x /usr/local/bin/ak
+
+Note:
+This works best with pyYAML version 5.3.1
